@@ -52,7 +52,7 @@ From the `superstore_analysis (3).ipynb`, here are the key findings:
 
 ## Dashboard Insights (Power BI)
 
-![Dashboard](tableau/Internship Superstore Sales Dashboard.png)
+![Dashboard](https://github.com/itsmemauliii/Brainwave_Matrix_Intern/blob/16d63f61e2b70a17b8ca4a536a331c5425387152/tableau/Internship%20Superstore%20Sales%20Dashboard.png)
 
 ### Key Visual Elements
 
