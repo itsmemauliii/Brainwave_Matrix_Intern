@@ -3,7 +3,7 @@
 
 Welcome to the Superstore Sales Analysis project! This repository contains the exploratory data analysis (EDA) and dashboard insights developed during my internship at **Brainwave Matrix**.
 
-This project focuses on understanding key business metrics from a fictional superstore dataset using **Python**, **Power BI**, and **data visualization techniques**.
+This project focuses on understanding key business metrics from a fictional superstore dataset using **Python**, **Tableau**, and **data visualization techniques**.
 
 ---
 
@@ -23,7 +23,7 @@ Brainwave_Matrix_Intern
 | Tool             | Purpose                              |
 |------------------|--------------------------------------|
 | **Python (Pandas, Seaborn, Matplotlib)** | Data Cleaning, Analysis, and Visualization |
-| **Power BI**     | Interactive Dashboard Creation       |
+| **Tableau**     | Interactive Dashboard Creation       |
 | **Jupyter Notebook** | Exploratory Data Analysis         |
 | **GitHub**       | Version Control and Sharing          |
 
@@ -50,7 +50,7 @@ From the `superstore_analysis (3).ipynb`, here are the key findings:
 
 ---
 
-## Dashboard Insights (Power BI)
+## Dashboard Insights (Tableau)
 
 ![Dashboard](https://github.com/itsmemauliii/Brainwave_Matrix_Intern/blob/16d63f61e2b70a17b8ca4a536a331c5425387152/tableau/Internship%20Superstore%20Sales%20Dashboard.png)
 
@@ -78,7 +78,7 @@ From the `superstore_analysis (3).ipynb`, here are the key findings:
 Gained hands-on experience in:
 
 - Performing EDA using Python  
-- Creating interactive dashboards in Power BI  
+- Creating interactive dashboards in Tableau  
 - Identifying loss patterns, segment behavior, and regional trends  
 - Drawing actionable insights from large retail datasets  
 
@@ -101,7 +101,7 @@ Gained hands-on experience in:
    ```
 
 2. Open the Jupyter Notebook to explore EDA  
-3. View the Power BI dashboard image for business insights  
+3. View the Tableau dashboard image for business insights  
 
 ---
 
