@@ -9,7 +9,7 @@ This project focuses on understanding key business metrics from a fictional supe
 ## Repository Structure
 
 ```
-Brainwave_Matrix_Intern
+My_Data_Analysis_Projects
 ├── superstore_analysis.ipynb           
 ├── Superstore Sales Dashboard.png  
 ├── README.md                              
