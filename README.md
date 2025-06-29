@@ -1,7 +1,6 @@
+# Superstore Sales Data Analysis
 
-# Brainwave Matrix Solutions Internship Project: Superstore Sales Data Analysis
-
-Welcome to the Superstore Sales Analysis project! This repository contains the exploratory data analysis (EDA) and dashboard insights developed during my internship at **Brainwave Matrix**.
+Welcome to the Superstore Sales Analysis project! This repository contains the exploratory data analysis (EDA) and dashboard insights.
 
 This project focuses on understanding key business metrics from a fictional superstore dataset using **Python**, **Tableau**, and **data visualization techniques**.
 
@@ -12,7 +11,7 @@ This project focuses on understanding key business metrics from a fictional supe
 ```
 Brainwave_Matrix_Intern
 ├── superstore_analysis.ipynb           
-├── Internship Superstore Sales Dashboard.png  
+├── Superstore Sales Dashboard.png  
 ├── README.md                              
 ```
 
