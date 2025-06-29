@@ -102,4 +102,4 @@ Distributed under the MIT License. (You'll need to create a `LICENSE.txt` file i
 
 Mauli Patel - maulipatel18112003@gmail.com
 
-Project Link: [https://github.com/itsmemauliii/My_Data_Analysis_Projects/tree/main/social-media-sentiment-analysis](https://github.com/itsmemauliii/My_Data_Analysis_Projects/social-media-sentiment-analysis)
+Project Link: [https://github.com/itsmemauliii/My_Data_Analysis_Projects/social-media-sentiment-analysis](https://github.com/itsmemauliii/My_Data_Analysis_Projects/social-media-sentiment-analysis)
