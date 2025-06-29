@@ -51,7 +51,7 @@ From the `superstore_analysis (3).ipynb`, here are the key findings:
 
 ## Dashboard Insights (Tableau)
 
-![Dashboard](https://github.com/itsmemauliii/Brainwave_Matrix_Intern/blob/16d63f61e2b70a17b8ca4a536a331c5425387152/tableau/Internship%20Superstore%20Sales%20Dashboard.png)
+![Dashboard](https://github.com/itsmemauliii/My_Data_Analysis_Projects/blob/16d63f61e2b70a17b8ca4a536a331c5425387152/tableau/Internship%20Superstore%20Sales%20Dashboard.png)
 
 ### Key Visual Elements
 
@@ -86,8 +86,7 @@ Gained hands-on experience in:
 ## Credits
 
 - Dataset: Superstore Sales (Kaggle)  
-- Internship by: **Brainwave Matrix**  
-- Intern: **Mauli Patel**  
+- Author: **Mauli Patel**  
   [LinkedIn](https://www.linkedin.com/in/itsmemauliii) | [GitHub](https://github.com/itsmemauliii)  
 
 ---
@@ -96,7 +95,7 @@ Gained hands-on experience in:
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/itsmemauliii/Brainwave_Matrix_Intern.git
+   git clone https://github.com/itsmemauliii/My_Data_Analysis_Projects.git
    ```
 
 2. Open the Jupyter Notebook to explore EDA  
